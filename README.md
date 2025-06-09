@@ -3,6 +3,7 @@
 Welcome to my github page! Here is an overview of the coding and skills I learned in the Computer Information Technology minor!
 
 Included is:
+
 Project 1
 - Lab 1
 
